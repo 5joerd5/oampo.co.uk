@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'ostrich-rounded';
+    src: url('ostrich-rounded-webfont.eot?#iefix') format('embedded-opentype'), 
+         url('ostrich-rounded-webfont.woff') format('woff'), 
+         url('ostrich-rounded-webfont.ttf')  format('truetype'),
+         url('ostrich-rounded-webfont.svg#svgFontName') format('svg');
+}

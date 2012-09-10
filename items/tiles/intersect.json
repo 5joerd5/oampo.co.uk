@@ -1,0 +1,9 @@
+{
+    "template": "tile",
+    "markdown": "tiles/intersect",
+    "title": "Intersect",
+    "description": "Multi-user audio sequencer",
+    "categories": ["audio"],
+    "tags": ["tile"]
+}
+

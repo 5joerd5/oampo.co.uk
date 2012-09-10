@@ -1,0 +1,9 @@
+{
+    "template": "tile",
+    "markdown": "tiles/fractals",
+    "title": "Fractals",
+    "categories": ["visual", "sketch"],
+    "tags": ["tile"],
+    "ajax-link": "/pages/fractals"
+}
+

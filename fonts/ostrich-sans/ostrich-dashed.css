@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'ostrich-dashed';
+    src: url('ostrich-dashed-webfont.eot?#iefix') format('embedded-opentype'), 
+         url('ostrich-dashed-webfont.woff') format('woff'), 
+         url('ostrich-dashed-webfont.ttf')  format('truetype'),
+         url('ostrich-dashed-webfont.svg#svgFontName') format('svg');
+}

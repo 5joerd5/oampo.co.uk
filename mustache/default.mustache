@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="Portfolio of the digital artist and creative coder Joe Turner" />
+        <meta name="author" content="Joe Turner" />
+        <title>
+        {{#title}}
+            {{title}} | Joe Turner
+        {{/title}}
+        {{^title}}
+            Joe Turner
+        {{/title}}
+        </title>
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="{{assets}}/fonts/ostrich-sans/ostrich-regular.css">
+        <link rel="stylesheet" href="{{assets}}/fonts/junction/Junction.css">
+        <link rel="stylesheet" href="{{assets}}/fonts/fontawesome/font-awesome.css">
+        <link rel="stylesheet" href="{{assets}}/css/normalize.css" />
+        <link rel="stylesheet" href="{{assets}}/css/pygments/friendly.css" />
+        <link rel="stylesheet" href="{{assets}}/css/main.css" />
+
+        <script src="{{assets}}/js/jquery/jquery-1.8.0.js"></script>
+        <script src="{{assets}}/js/history.js/history.js"></script>
+        <script src="{{assets}}/js/prefixfree/prefixfree.js"></script>
+        <script src="{{assets}}/js/main.js"></script>
+    </head>
+    <body>
+        <div id="header">
+            <div id="inner">
+                <div id="logo">
+                    <h1>
+                         <a href="/">
+    <!--                        <canvas> -->
+                                <img src="http://placehold.it/320x100" alt="Joe Turner"/>
+    <!--                        </canvas> -->
+                        </a>
+                    </h1>
+                </div>
+                <div class="subheadings">
+                    <h2>
+                        Digital Art
+                    </h2>
+                    <h2>
+                        Creative Coding
+                    </h2>
+                </div>
+                <div id="badges">
+                    <div>
+                        <a href="mailto:joe@oampo.co.uk">
+                            <i class="icon-envelope"></i>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="https://github.com/oampo">
+                            <i class="icon-github"></i>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="http://www.twitter.com/o_amp_o">
+                            <i class="icon-twitter"></i>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="http://uk.linkedin.com/pub/joe-turner/3b/588/478">
+                            <i class="icon-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="color-shadow">
+                <div>&nbsp;</div>
+                <div>&nbsp;</div>
+            </div>
+        </div>
+
+        <div id="content">
+            <div>
+                {{{content}}}
+            </div>
+            <div style="display: none">
+                Content
+            </div>
+        </div>
+    </body>
+</html>
+

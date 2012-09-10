@@ -1,0 +1,9 @@
+{
+    "template": "tile",
+    "markdown": "tiles/siren-song",
+    "title": "Siren Song",
+    "description": "Infinite audio-visual game",
+    "categories": ["audio", "visual", "game"],
+    "tags": ["tile"]
+}
+

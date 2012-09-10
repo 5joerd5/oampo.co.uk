@@ -1,0 +1,33 @@
+<div class="tile" data-categories="{{{categories}}}">
+    {{#ajax-link}}
+    <a href="{{ajax-link}}" class="ajax">
+    {{/ajax-link}}
+    {{#link}}
+    <a href="{{link}}">
+    {{/link}}
+
+    {{#title}}
+    <div class="over">
+        <h3>
+            {{title}}
+        </h3>
+    </div>
+    {{/title}}
+
+    {{{content}}}
+
+    {{#description}}
+    <div class="under">
+        <h4>
+            {{description}}
+        </h4>
+    </div>
+    {{/description}}
+
+    {{#link}}
+    </a>
+    {{/link}}
+    {{#ajax-link}}
+    </a>
+    {{/ajax-link}}
+</div>

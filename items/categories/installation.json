@@ -1,0 +1,7 @@
+{
+    "template": "index",
+    "filter": "installation",
+    "filterAttribute": "categories",
+    "sort": "order"
+}
+

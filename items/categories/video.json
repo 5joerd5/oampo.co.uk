@@ -1,0 +1,7 @@
+{
+    "template": "index",
+    "filter": "video",
+    "filterAttribute": "categories",
+    "sort": "order"
+}
+

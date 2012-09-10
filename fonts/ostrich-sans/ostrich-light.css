@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'ostrich-light';
+    src: url('ostrich-light-webfont.eot?#iefix') format('embedded-opentype'), 
+         url('ostrich-light-webfont.woff') format('woff'), 
+         url('ostrich-light-webfont.ttf')  format('truetype'),
+         url('ostrich-light-webfont.svg#svgFontName') format('svg');
+}

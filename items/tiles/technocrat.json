@@ -1,0 +1,9 @@
+{
+    "template": "tile",
+    "markdown": "tiles/technocrat",
+    "title": "Technocrat",
+    "description": "Ambient techno machine",
+    "categories": ["audio"],
+    "tags": ["tile"]
+}
+

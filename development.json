@@ -1,0 +1,13 @@
+{
+    "assets" : "/assets",
+    "categories": [
+        {"name": "Audio"},
+        {"name": "Visual"},
+        {"name": "Installation"},
+        {"name": "Video"},
+        {"name": "Interactive"},
+        {"name": "Game"},
+        {"name": "Sketch"},
+        {"name": "Software"}
+    ]
+}

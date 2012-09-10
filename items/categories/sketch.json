@@ -1,0 +1,7 @@
+{
+    "template": "index",
+    "filter": "sketch",
+    "filterAttribute": "categories",
+    "sort": "order"
+}
+

@@ -1,0 +1,7 @@
+{
+    "template": "index",
+    "filter": "visual",
+    "filterAttribute": "categories",
+    "sort": "order"
+}
+
